@@ -16,4 +16,4 @@ Projeyi cloneladıktan sonra VS Code programında açtım.
 
 # Resim
 
-![Kedicik](https://st4.depositphotos.com/1032808/19938/i/950/depositphotos_199385388-stock-photo-little-cute-kitten-sad-eyes.jpg) https://st4.depositphotos.com/1032808/19938/i/950/depositphotos_199385388-stock-photo-little-cute-kitten-sad-eyes.jpg
+![Kedicik](https://i.pinimg.com/236x/8d/2d/f0/8d2df0fc2aae8374c2c2357f885f7d0a.jpg)
